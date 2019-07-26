@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GERAIS": {
+      "commandName": "Project",
+      "commandLineArgs": "gilberto martini"
+    }
+  }
+}

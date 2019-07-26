@@ -1,0 +1,11 @@
+C:\DEV\TESTES\GERAIS\bin\Debug\netcoreapp2.0\GERAIS.deps.json
+C:\DEV\TESTES\GERAIS\bin\Debug\netcoreapp2.0\GERAIS.runtimeconfig.json
+C:\DEV\TESTES\GERAIS\bin\Debug\netcoreapp2.0\GERAIS.runtimeconfig.dev.json
+C:\DEV\TESTES\GERAIS\bin\Debug\netcoreapp2.0\GERAIS.dll
+C:\DEV\TESTES\GERAIS\bin\Debug\netcoreapp2.0\GERAIS.pdb
+C:\DEV\TESTES\GERAIS\obj\Debug\netcoreapp2.0\GERAIS.csprojAssemblyReference.cache
+C:\DEV\TESTES\GERAIS\obj\Debug\netcoreapp2.0\GERAIS.csproj.CoreCompileInputs.cache
+C:\DEV\TESTES\GERAIS\obj\Debug\netcoreapp2.0\GERAIS.AssemblyInfoInputs.cache
+C:\DEV\TESTES\GERAIS\obj\Debug\netcoreapp2.0\GERAIS.AssemblyInfo.cs
+C:\DEV\TESTES\GERAIS\obj\Debug\netcoreapp2.0\GERAIS.dll
+C:\DEV\TESTES\GERAIS\obj\Debug\netcoreapp2.0\GERAIS.pdb
